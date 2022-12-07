@@ -1,3 +1,4 @@
+//Escreva um programa que dado um tempo em segundos, imprima quantas horas, minutos e segundos h ́a neste tempo.
 
 const prompt = require('prompt-sync')();
 
